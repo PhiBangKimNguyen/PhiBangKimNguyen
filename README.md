@@ -13,4 +13,5 @@ I'm a Full Stack Developer with proficiency in MERN stacks, Spring Boot, and Dja
                     </p>
                     
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PhiBangKimNguyen&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PhiBangKimNguyen&langs_count=3&theme=tokyonight)]()
 
